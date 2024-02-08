@@ -10,8 +10,8 @@ const App = () => {
     <Header/>
       <View style={style.container}>
 
-      <Home/>
-      {/* <VideoCall/> */}
+      {/* <Home/> */}
+      <VideoCall/>
       </View>
 
     </>
